@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wketh\\source\\repos\\BookHaven\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A51C36A6-C436-4251-9D6A-09AB8BA0DB20}|BookHaven.csproj|C:\\Users\\wketh\\source\\repos\\BookHaven\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A51C36A6-C436-4251-9D6A-09AB8BA0DB20}|BookHaven.csproj|solutionrelative:signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51C36A6-C436-4251-9D6A-09AB8BA0DB20}|BookHaven.csproj|C:\\Users\\wketh\\source\\repos\\BookHaven\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A51C36A6-C436-4251-9D6A-09AB8BA0DB20}|BookHaven.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51C36A6-C436-4251-9D6A-09AB8BA0DB20}|BookHaven.csproj|c:\\users\\wketh\\source\\repos\\bookhaven\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51C36A6-C436-4251-9D6A-09AB8BA0DB20}|BookHaven.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51C36A6-C436-4251-9D6A-09AB8BA0DB20}|BookHaven.csproj|C:\\Users\\wketh\\source\\repos\\BookHaven\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51C36A6-C436-4251-9D6A-09AB8BA0DB20}|BookHaven.csproj|solutionrelative:signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51C36A6-C436-4251-9D6A-09AB8BA0DB20}|BookHaven.csproj|C:\\Users\\wketh\\source\\repos\\BookHaven\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51C36A6-C436-4251-9D6A-09AB8BA0DB20}|BookHaven.csproj|solutionrelative:db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "C:\\Users\\wketh\\source\\repos\\BookHaven\\SignUp.cs",
+              "RelativeDocumentMoniker": "SignUp.cs",
+              "ToolTip": "C:\\Users\\wketh\\source\\repos\\BookHaven\\SignUp.cs",
+              "RelativeToolTip": "SignUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T04:59:41.111Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\wketh\\source\\repos\\BookHaven\\DB.cs",
+              "RelativeDocumentMoniker": "DB.cs",
+              "ToolTip": "C:\\Users\\wketh\\source\\repos\\BookHaven\\DB.cs",
+              "RelativeToolTip": "DB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T04:59:51.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wketh\\source\\repos\\BookHaven\\SignUp.cs",
+              "RelativeDocumentMoniker": "SignUp.cs",
+              "ToolTip": "C:\\Users\\wketh\\source\\repos\\BookHaven\\SignUp.cs [Design]",
+              "RelativeToolTip": "SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T04:59:38.991Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignIn.cs",
+              "DocumentMoniker": "C:\\Users\\wketh\\source\\repos\\BookHaven\\SignIn.cs",
+              "RelativeDocumentMoniker": "SignIn.cs",
+              "ToolTip": "C:\\Users\\wketh\\source\\repos\\BookHaven\\SignIn.cs",
+              "RelativeToolTip": "SignIn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADgvxAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T04:59:24.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignIn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wketh\\source\\repos\\BookHaven\\SignIn.cs",
+              "RelativeDocumentMoniker": "SignIn.cs",
+              "ToolTip": "C:\\Users\\wketh\\source\\repos\\BookHaven\\SignIn.cs [Design]",
+              "RelativeToolTip": "SignIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T04:59:22.262Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
