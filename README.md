@@ -1,36 +1,41 @@
 # BookHaven Book Management System
 
-A Windows Forms-based Bookstore Management System developed using C#, .NET Framework, and SQL Server. The application provides secure login access for admins and clerks with role-specific permissions. It allows all parties to efficiently perform CRUD operations and clerks while inventory with a streamlined, desktop environment.
+> One-line value proposition. Clearly state the problem and the outcome.
 
-## View Project
+## Summary
 
-To view or edit the project:
+High-level overview of the project, its purpose, and the value it delivers. Focus on impact, not implementation.
+
+## Key Features
+
+- Feature 1 — core business value  
+- Feature 2 — technical differentiation  
+- Feature 3 — scalability or performance advantage  
+
+## Architecture Overview
+
+Brief explanation of system design and data flow.
+
+> Optional: link to an architecture diagram
+
+## Tech Stack
+
+- **Frontend:**  
+- **Backend:**  
+- **Database:**  
+- **Infrastructure / DevOps:**  
+
+## Getting Started
+
+### Prerequisites
+
+- Runtime versions  
+- Package managers  
+- External dependencies  
+
+### Installation
 
 ```bash
-git clone https://github.com/Kethnulee-Weerasinghe4/BookHaven-Book-Management-System.git
-cd BookHaven-Book-Management-System
-```
-
-## Setup & Run
-
-```bash
-
-```
-
-![Website Preview](./preview.png)
-
-## Features
-
-- Secure login system with role-based access for admin, staff, and customers
-- Full CRUD operations
-- Inventory management with real-time stock updates
-- Point-of-sale module for processing sales and generating receipts
-- Supplier management for restocking and tracking supply details
-- Admin dashboard displaying sales, inventory, and performance metrics
-- Reporting module for daily, weekly, and monthly sales summaries
-  
-## Technologies
-
-- C#
-- .NET Framework
-- SQL Server
+git clone <repo-url>
+cd project-name
+npm install
