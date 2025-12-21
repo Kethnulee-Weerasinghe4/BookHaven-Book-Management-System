@@ -1,41 +1,52 @@
 # BookHaven Book Management System
 
-> One-line value proposition. Clearly state the problem and the outcome.
+A centralized desktop solution that streamlines bookstore operations by integrating inventory, sales, customers, and reporting into a single, secure platform.
+
+![Website Preview](./preview.png)
 
 ## Summary
 
-High-level overview of the project, its purpose, and the value it delivers. Focus on impact, not implementation.
+BookHaven Book Management System is a Windows Forms–based desktop application built to optimize end-to-end bookstore operations. It enables staff to efficiently manage books, customers, sales, suppliers, and orders while giving administrators real-time visibility into business performance. The system reduces manual overhead, improves data accuracy, and supports informed decision-making through structured workflows and actionable insights.
 
 ## Key Features
 
-- Feature 1 — core business value  
-- Feature 2 — technical differentiation  
-- Feature 3 — scalability or performance advantage  
+- Role-Based User Authentication — Secure login with differentiated access levels for Admins and Sales Clerks, ensuring governance and operational control.
 
-## Architecture Overview
+- Book Inventory Management — Full CRUD operations for books, including title, author, genre, ISBN, pricing, and stock levels.
 
-Brief explanation of system design and data flow.
+- Customer Management — Centralized customer profiles with purchase history tracking to enhance service quality and retention.
 
-> Optional: link to an architecture diagram
+- Sales & POS Module — Fast transaction processing with automated total calculation, discount handling, receipt generation, and real-time inventory updates.
+
+- Order Management — End-to-end order tracking for in-store pickup and delivery, with flexible order updates and status management.
+
+- Supplier Management — Supplier lifecycle management, low-stock monitoring, and stock replenishment coordination with publishers and distributors.
+
+- Admin Dashboard — High-level operational overview covering sales performance, inventory health, customer activity, and staff usage metrics.
+
+- Reporting & Analytics — Daily, weekly, and monthly sales reports, best-selling book insights, and inventory status summaries.
 
 ## Tech Stack
 
-- **Frontend:**  
-- **Backend:**  
-- **Database:**  
-- **Infrastructure / DevOps:**  
+- **Application Type** : Windows Desktop Application
+- **Framework** : Windows Forms (.NET)
+- **Programming Language** : C#
+- **Database** : Microsoft SQL Server 
 
 ## Getting Started
 
 ### Prerequisites
 
-- Runtime versions  
-- Package managers  
-- External dependencies  
-
+- Operating System : Windows 10 or later
+- .NET Runtime : Compatible .NET Framework / .NET version installed
+- Database Server: Microsoft SQL Server
+- IDE: Visual Studio
+  
 ### Installation
 
 ```bash
 git clone <repo-url>
+cd BookHaven-Book-Management-System
+
 cd project-name
 npm install
