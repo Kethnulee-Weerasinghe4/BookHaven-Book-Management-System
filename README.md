@@ -4,7 +4,7 @@ A centralized desktop solution that streamlines bookstore operations by integrat
 
 ![Website Preview](./preview.png)
 
-## Summary
+## Overview
 
 BookHaven Book Management System is a Windows Forms–based desktop application built to optimize end-to-end bookstore operations. It enables staff to efficiently manage books, customers, sales, suppliers, and orders while giving administrators real-time visibility into business performance. The system reduces manual overhead, improves data accuracy, and supports informed decision-making through structured workflows and actionable insights.
 
@@ -28,25 +28,14 @@ BookHaven Book Management System is a Windows Forms–based desktop application 
 
 ## Tech Stack
 
-- **Application Type** : Windows Desktop Application
 - **Framework** : Windows Forms (.NET)
 - **Programming Language** : C#
 - **Database** : Microsoft SQL Server 
 
 ## Getting Started
-
-### Prerequisites
-
-- Operating System : Windows 10 or later
-- .NET Runtime : Compatible .NET Framework / .NET version installed
-- Database Server: Microsoft SQL Server
-- IDE: Visual Studio
   
 ### Installation
 
 ```bash
-git clone <repo-url>
+git clone (https://github.com/Kethnulee-Weerasinghe4/BookHaven-Book-Management-System)
 cd BookHaven-Book-Management-System
-
-cd project-name
-npm install
