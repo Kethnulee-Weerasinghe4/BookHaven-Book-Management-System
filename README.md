@@ -37,5 +37,5 @@ BookHaven Book Management System is a Windows Forms–based desktop application 
 ### Installation
 
 ```bash
-git clone https://github.com/Kethnulee-Weerasinghe4/BookHaven-Book-Management-System
+git clone https://github.com/Kethnulee-Weerasinghe4/BookHaven-Book-Management-System.git
 cd BookHaven-Book-Management-System
